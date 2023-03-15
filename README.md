@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @PhucEnterdev
 - 🌱 I’m currently learning at Can Tho University.
-- 💻 I long to become an Android developer.
+- 💻 I long to become an Android developer and FullStack Developer in the future.
 - 💞️ I'm looking to collaborate on with your company.
