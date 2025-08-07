@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @PhucEnterdev
-- 💻 I long to become an Mobile developer and FullStack Developer in the future.
-- 💞️ I'm looking to collaborate on with your company.
+- 🏚 Can Tho, Viet Nam
+- 💻 IT Engineer
+- 📺 VTV Can Tho
