@@ -2,7 +2,7 @@
 - 💻 IT Engineer
 - 📺 VTV Can Tho
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PhucEnterdev&hide=javascript,html)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PhucEnterdev)
 
 <picture>
   <source
